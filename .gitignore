@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Personal contacts; the program creates this file on first run
+PhoneBook.csv
+
+# PyInstaller output
+build/
+dist/
+*.spec
